@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta2_98a3f7a99381c23d0229dc0280f7ec9919b777e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_a4f2a7526d91a55c433a02ad7961aefd43fa612e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_df94b7f2f9012f10e2f6a8928c7cf45e702b53b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_dec7c0dc53814404ff58cfcab77990bc20d9c492.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_7454b44e4f19d943de9a927d54b04edf63627931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_e9b8b2dc1ff07d179a2f7136cc2cada5b21570d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_3ae1a197d1c93576b5a66029389fe70adebcb5b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_c03c15bdf579123a7854ed9a77df7ffc6a8c5789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta2_28a3882df3599ad519395ef2c88bcafe4c2946e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_f3f2c4fbf50ec60629e2d25f5b9b86a8b9233e1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\gson-2.3.1_28adba4025d1a13f0b9329889919f3be0d4ed3d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_f65ddc42af3c1cfeff97fa72e259fcc02e719fed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\okio-1.6.0_151ab50de97c607fca421188382baf9ebaf7e38f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_6d58fc22a557035e9cdbba029a8248985dfe5aae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\MIYA35\Desktop\Demo_a\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_e8dc63d85a7e5aa75aeffbc6623e3fc5913918a4.jar" />
+    </item>
+
+</items>
